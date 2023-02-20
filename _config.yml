@@ -1,0 +1,11 @@
+
+
+# Site settings
+title: Dicee Game 
+author:
+  name: Jesse Hill
+  email: fullstackjh@gmail.com
+description: "Jesse Hill dicee site"
+
+# Build settings
+remote_theme: jekyll/minima
